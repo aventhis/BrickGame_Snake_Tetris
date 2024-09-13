@@ -48,3 +48,33 @@
 - **make dvi**: Generate the project documentation.
 - **make gcov_report**: Generate a code coverage report in HTML format.
 
+## Features
+
+- Two classic games: Tetris and Snake.
+- Simple user interface built using Qt.
+- High score and level tracking for both games.
+- Easy-to-use controls for start, pause, and quit.
+- Real-time score and game-over detection.
+  
+## Controls
+
+- **Start**: Starts the game.
+- **Pause**: Pauses the game.
+- **Quit**: Exits the game.
+
+## Game Screens
+
+Here are some screenshots showcasing the gameplay:
+
+### Tetris Gameplay
+
+| Game Start | Gameplay |
+|-------------------|-------------------|
+| ![Game Start](src/docs/screenshots/Screenshot1.png) | ![Gameplay](src/docs/screenshots/Screenshot4.png) |
+
+### Snake Gameplay
+
+| Snake Start | Game Over |
+|-------------------|-------------------|
+| ![Snake Start](src/docs/screenshots/Screenshot2.png) | ![Game Over](src/docs/screenshots/Screenshot3.png) |
+
