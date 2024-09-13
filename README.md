@@ -68,13 +68,27 @@ Here are some screenshots showcasing the gameplay:
 
 ### Tetris Gameplay
 
-| Game Start | Gameplay |
-|-------------------|-------------------|
-| ![Game Start](src/docs/screenshots/Screenshot11.png) | ![Gameplay](src/docs/screenshots/Screenshot41.png) |
+<table>
+  <tr>
+    <th>Game Start</th>
+    <th>Gameplay</th>
+  </tr>
+  <tr>
+    <td><img src="src/docs/screenshots/Screenshot11.png" height="300"/></td>
+    <td><img src="src/docs/screenshots/Screenshot41.png" height="300"/></td>
+  </tr>
+</table>
 
 ### Snake Gameplay
 
-| Snake Start | Game Over |
-|-------------------|-------------------|
-| ![Snake Start](src/docs/screenshots/Screenshot21.png) | ![Game Over](src/docs/screenshots/Screenshot31.png) |
+<table>
+  <tr>
+    <th>Snake Start</th>
+    <th>Game Over</th>
+  </tr>
+  <tr>
+    <td><img src="src/docs/screenshots/Screenshot21.png" height="300"/></td>
+    <td><img src="src/docs/screenshots/Screenshot31.png" height="300"/></td>
+  </tr>
+</table>
 
