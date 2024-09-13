@@ -70,11 +70,11 @@ Here are some screenshots showcasing the gameplay:
 
 | Game Start | Gameplay |
 |-------------------|-------------------|
-| ![Game Start](src/docs/screenshots/Screenshot1.png) | ![Gameplay](src/docs/screenshots/Screenshot4.png) |
+| ![Game Start](src/docs/screenshots/Screenshot11.png) | ![Gameplay](src/docs/screenshots/Screenshot41.png) |
 
 ### Snake Gameplay
 
 | Snake Start | Game Over |
 |-------------------|-------------------|
-| ![Snake Start](src/docs/screenshots/Screenshot2.png) | ![Game Over](src/docs/screenshots/Screenshot3.png) |
+| ![Snake Start](src/docs/screenshots/Screenshot21.png) | ![Game Over](src/docs/screenshots/Screenshot31.png) |
 
